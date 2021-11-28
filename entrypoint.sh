@@ -6,4 +6,4 @@ echo "::set-output name=time::$time"
 
 mkdir hoge
 touch hoge/$time.txt
-
+ls hoge
